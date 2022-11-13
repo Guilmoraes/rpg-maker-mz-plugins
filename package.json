@@ -1,0 +1,24 @@
+{
+  "name": "rpg-maker-mz-plugins",
+  "version": "0.0.1",
+  "description": "Plugins to RPG Maker MZ ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Guilmoraes/rpg-maker-mz-plugins.git"
+  },
+  "author": "Guilherme Moraes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Guilmoraes/rpg-maker-mz-plugins/issues"
+  },
+  "homepage": "https://github.com/Guilmoraes/rpg-maker-mz-plugins#readme",
+  "devDependencies": {
+    "eslint": ">=5.16.0",
+    "eslint-config-google": "^0.14.0",
+    "jest": "^29.3.1"
+  }
+}
